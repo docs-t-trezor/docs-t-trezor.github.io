@@ -1,1 +1,0 @@
-# docs-t-trezor.github.io
